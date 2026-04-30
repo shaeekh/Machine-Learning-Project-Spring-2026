@@ -12,3 +12,6 @@ Phase 3: The model was trained for up to 150 epochs with early stopping (patienc
 Phase 4: The best model checkpoint was loaded and evaluated on the full 1,111-sample test set. Predictions were inverse-transformed back to real-world coordinates and Euclidean distance error was computed per sample. Evaluation included an overall performance summary, per-building and per-floor error breakdowns.
 
 Details of each of these phases are described in the ipynb file. An overall video description is also submitted in the submission file. 
+
+
+##Dataset Description: https://www.kaggle.com/datasets/giantuji/UjiIndoorLoc
