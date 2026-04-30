@@ -1,4 +1,4 @@
-# Machine-Learning-Project-Spring-2026
+# Indoor Localization Using Wifi RSSI Signals through Deep Learning
 
 The project is divided into four phases.
 
