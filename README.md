@@ -14,4 +14,4 @@ Phase 4: The best model checkpoint was loaded and evaluated on the full 1,111-sa
 Details of each of these phases are described in the ipynb file. An overall video description is also submitted in the submission file. 
 
 
-##Dataset Description: https://www.kaggle.com/datasets/giantuji/UjiIndoorLoc
+#Dataset Description: https://www.kaggle.com/datasets/giantuji/UjiIndoorLoc
